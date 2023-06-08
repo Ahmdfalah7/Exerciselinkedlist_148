@@ -97,8 +97,7 @@ int main() {
 				break;
 			}
 			case '2': {
-				obj.search();
-				break;
+				
 			}
 			case '3': {
 			}
